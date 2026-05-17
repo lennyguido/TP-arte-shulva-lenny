@@ -1,0 +1,191 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: rgb(255, 245, 250);
+}
+
+header{
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    background-color: rgb(255, 190, 215);
+}
+
+header a{
+    width: 14%;
+    display: inline-block;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    background-color: rgb(255, 245, 250);
+    color: rgb(180, 40, 100);
+    border-style: solid;
+    border-color: rgb(180, 40, 100);
+    border-radius: 10%;
+    text-decoration: none;
+}
+
+header a{
+    background-color: rgb(180, 40, 100);
+    color: rgb(255, 245, 250);
+}
+
+main{
+    width: 100%;
+    clear: both;
+}
+
+main div{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 3%;
+    background-color: rgb(255, 245, 250);
+}
+
+main div img{
+    width: 100%;
+}
+
+main div img{
+    width: 20%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+main div h1{
+    padding-bottom: 2%;
+    color: rgb(180, 40, 100);
+    font-size: 250%;
+    font-style: italic;
+}
+
+main div p{
+    padding: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: rgb(180, 40, 100);
+    font-size: 110%;
+}
+
+section{
+    width: 90%;
+    clear: both;
+    padding: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    text-align: center;
+    background-color: rgb(255, 245, 250);
+    border-style: solid;
+    border-color: rgb(255, 190, 215);
+    border-radius: 5%;
+}
+
+section h2{
+    padding-bottom: 2%;
+    color: rgb(180, 40, 100);
+    font-size: 180%;
+}
+
+section p{
+    padding-bottom: 2%;
+    color: rgb(180, 40, 100);
+    font-size: 105%;
+}
+
+article{
+
+    width: 25%;
+    float: left;
+    padding: 1%;
+    margin: 2%;
+    background-color: rgb(255, 190, 215);
+    border-style: solid;
+    border-color: rgb(180, 40, 100);
+    border-radius: 5%;
+
+}
+
+article img{
+    width: 100%;
+    border-radius: 5%;
+}
+
+article h3{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: rgb(180, 40, 100);
+    font-size: 130%;
+}
+
+article p{
+    color: rgb(180, 40, 100);
+    font-size: 100%;
+}
+
+.boton{
+    width: 20%;
+    display: inline-block;
+    padding: 1%;
+    margin-top: 1%;
+    text-align: center;
+    background-color: rgb(180, 40, 100);
+    color: rgb(255, 245, 250);
+    border-style: solid;
+    border-color: rgb(180, 40, 100);
+    border-radius: 10%;
+    text-decoration: none;
+}
+
+form{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 2%;
+    text-align: center;
+}
+
+input{
+    width: 80%;
+    padding: 1%;
+    margin-bottom: 2%;
+    background-color: rgb(255, 245, 250);
+    color: rgb(180, 40, 100);
+    border-style: solid;
+    border-color: rgb(255, 190, 215);
+    border-radius: 5%;
+}
+
+textarea{
+    width: 80%;
+    height: 25%;
+    padding: 1%;
+    margin-bottom: 2%;
+    background-color: rgb(255, 245, 250);
+    color: rgb(180, 40, 100);
+    border-style: solid;
+    border-color: rgb(255, 190, 215);
+    border-radius: 5%;
+}
+
+button{
+    font-size: 100%;
+}
+
+footer{
+    width: 100%;
+    clear: both;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    background-color: rgb(255, 190, 215);
+}
+
+footer img{
+    width: 8%;
+    margin: 2%;
+}
